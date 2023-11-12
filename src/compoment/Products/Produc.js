@@ -11,6 +11,7 @@ import { motion } from "framer-motion";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
+
 function Brands() {
   useEffect(() => {
     AOS.init({ duration: 1700 });

@@ -28,6 +28,7 @@ export default function Footer () {
           <a href='https://github.com/tnson16' className='me-4 text-reset'>
             <MDBIcon color='secondary' fab icon='github' />
           </a>
+
         </div>
       </section>
 
@@ -84,7 +85,7 @@ export default function Footer () {
             </MDBCol>
 
             <MDBCol md='3' lg='2' xl='2' >
-              <h6 className=''>CATEGORIES</h6>
+              <h6 className='text-uppercase fw-bold mb-4'>CATEGORIES</h6>
               <p>
                 <a href='categories/1' className='text-reset'>
                 Rose
@@ -115,7 +116,7 @@ export default function Footer () {
               </p>
               <p>
                 <MDBIcon color='secondary' icon='envelope' className='me-3' />
-                ABCD@gmail.com
+                group1-project@gmail.com
               </p>
               <p>
                 <MDBIcon color='secondary' icon='phone' className='me-3' /> + 01 234 567 88
@@ -126,9 +127,9 @@ export default function Footer () {
       </section>
 
       <div className='text-center' >
-        © 2021 Copyright:
+        ©Copyright: 
         <a>
-          Blooming 2023
+          Blooming Petals 2023
         </a>
       </div>
     </MDBFooter>
