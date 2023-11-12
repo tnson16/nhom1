@@ -15,7 +15,7 @@
 
 <h3  align="center">BLOOMING PETALS</h3>
 
-  BLOOMING PETALS - We are your companions
+<h4  align="center">We are your companions</h4>
   <br  />
   Your happiness comes every day from our beautiful flowers
   <br  />
