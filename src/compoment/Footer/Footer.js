@@ -38,23 +38,23 @@ export default function Footer () {
           <MDBCol md='2' lg='2' xl='2'    >
               <h6 className='text-uppercase fw-bold mb-4'>About</h6>
               <p>
-                <a href='' className='text-reset'>
+                <a href='home' className='text-reset'>
                 Home
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
-                Products
+                <a href='contact-us' className='text-reset'>
+                Contact Us
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
-                Categori
+                <a href='about-us' className='text-reset'>
+                About Us
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
-                 Brands
+                <a href='productcompare' className='text-reset'>
+                 Compare
                 </a>
               </p>
             </MDBCol>
@@ -62,22 +62,22 @@ export default function Footer () {
             <MDBCol md='2' lg='2' xl='2' className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href='products/1' className='text-reset'>
                 Anniversary
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href='products/2' className='text-reset'>
                 Congratulations
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href='products/3' className='text-reset'>
                 love
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href='products/4' className='text-reset'>
                  Brithday
                 </a>
               </p>
@@ -86,17 +86,17 @@ export default function Footer () {
             <MDBCol md='3' lg='2' xl='2' >
               <h6 className=''>CATEGORIES</h6>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href='categories/1' className='text-reset'>
                 Rose
                 </a>
               </p>
               <p>
-                <a href='http://localhost:3000/categories/2' className='text-reset'>
+                <a href='categories/2' className='text-reset'>
                 Chrysanthemum
                 </a>
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href='categories/3' className='text-reset'>
                 lilies
                 </a>
               </p>
