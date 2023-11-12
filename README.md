@@ -7,7 +7,7 @@
 <div  align="center">
 
 
-<img  src="./src/Data/Logo/logo.png"  alt="Logo"  width="768px"  height="auto">
+<img  src="./src/Data/Logo/logo.png"  alt="Logo"  width="300px"  height="auto">
 
 </a>
 
