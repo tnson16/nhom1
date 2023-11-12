@@ -28,7 +28,6 @@
 
   <br  /><a  href="https://nhom1-sigma.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/OEdZ5sy2xXc?si=un3MHgXq4x5WNMIv" target="_blank">Video</a>
 
-<img  src="none"  alt="Logo"  width="768px"  height="auto">
 
   ### Built With
   Below is the languages/libraries we used for this project:
@@ -56,6 +55,7 @@ The site should display a menu which will contain the options for brief introduc
 </li>
 <li>
 The information about products should be presented in two ways:
+</br>
 (a) Information should be available category wise, wherein user can click on a particular category and should be able to view all the products related to the category available with complete information. Eg. Category can be “Birthdays”, “Anniversaries”, marriages” etc. with suitable sub-categories been defined.
 
 (b) Information should be categorized according to the type of flowers like if a User wants to see only “Rose decors” or any other particular flower products then he/she can click on a Link/button/menu etc and can see only that products.
