@@ -14,9 +14,6 @@
   
 
 <h3  align="center">BLOOMING PETALS</h3>
-
-<h4  align="center">We are your companions</h4>
-
   Your happiness comes every day from our beautiful flowers
   <br  />
   We have delivery service for you anytime, anywhere
