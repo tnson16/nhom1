@@ -7,22 +7,28 @@
 <div  align="center">
 
 
-<img  src="./src/components/Header/Gracious Garments-logos/Gracious Garments-logos.jpeg"  alt="Logo"  width="768px"  height="auto">
+<img  src="./src/Data/Logo/logo.png"  alt="Logo"  width="768px"  height="auto">
 
 </a>
 
   
 
-<h3  align="center">GRACIOUS GARMENTS</h3>
+<h3  align="center">BLOOMING PETALS</h3>
 
-  GRACIOUS GARMENTS is selling various types of GARMENTS for both MEN and WOMEN. The company advertises by distributing the pamphlets, advertising on television and so on. Due to rapid development in internet field, the company decides to launch a website where people will get all the information about the various products available with them easily.
+  BLOOMING PETALS - We are your companions
   <br  />
-  <a  href="https://github.com/dddo1901/dddo1901.github.io.git"><strong>Explore the source »</strong></a>
+  Your happiness comes every day from our beautiful flowers
+  <br  />
+  We have delivery service for you anytime, anywhere
+  <br  />
+  We have regular discount programs for loyal customers
+  <br  />
+  <a  href=": https://github.com/tnson16/nhom1"><strong>Explore the source »</strong></a>
   <a  href="https://github.com/dddo1901/dddo1901.github.io/tree/e95ccdc67ab984efcd0fc49403cab07af0b92a76/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  /><a  href="https://dddo1901-github-io-git-main-doanducdos-projects.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/OEdZ5sy2xXc?si=un3MHgXq4x5WNMIv" target="_blank">Video</a>
+  <br  /><a  href="https://nhom1-sigma.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/OEdZ5sy2xXc?si=un3MHgXq4x5WNMIv" target="_blank">Video</a>
 
-<img  src="https://github.com/dddo1901/dddo1901.github.io/blob/fa834706c17b17690f1583569f9829d80d726fd4/src/components/assets/images/GRACOIUS_GRAMENTS_vercel.png"  alt="Logo"  width="768px"  height="auto">
+<img  src="none"  alt="Logo"  width="768px"  height="auto">
 
   ### Built With
   Below is the languages/libraries we used for this project:
@@ -40,35 +46,39 @@
 ### Features </br>
 <ol>
 <li>
-The Home Page should be created with proper sections, graphics and with a suitable logo.</br>
+The Home Page should be created with sections, graphics and with a suitable logo.</br>
 </li>
 <li>
-Home Page should contain details of different Garments with suitable images.  </br>
+Home Page should contain details of different flowers/floral decors with suitable images.  </br>
 </li>
 <li>
-The site should display a menu which will contain the options for brief introduction about the various garments available, location of the shop and any other information if required.</br>
+The site should display a menu which will contain the options for brief introduction about the various floral themes/decorations available, location of the shop and any other information if required.</br>
 </li>
 <li>
-The information should be categorized according to the brand names of the products like if a User wants to see only “Van Heusen” products or any other companies products then he/she can click on a Link/button/menu etc and can see only that Brand products.</br>
+The information about products should be presented in two ways:
+(a) Information should be available category wise, wherein user can click on a particular category and should be able to view all the products related to the category available with complete information. Eg. Category can be “Birthdays”, “Anniversaries”, marriages” etc. with suitable sub-categories been defined.
+
+(b) Information should be categorized according to the type of flowers like if a User wants to see only “Rose decors” or any other particular flower products then he/she can click on a Link/button/menu etc and can see only that products.
+</br>
 </li>
 <li>
-When a user selects any particular brand, a list of products for that brand will be displayed</br>
+When a user selects any particular flower, a list of products for that brand will be displayed</br>
 </li>
 <li>
-A brief summary of features of individual products should be displayed on the Web Page along with the product but detailed Features should be stored in Individual Word documents which can be downloaded or viewed by the User who wishes to see the same.</br>
+A brief summary of individual products should be displayed on the Web Page along with the product but detailed Features should be stored in Individual Word documents which can be downloaded or viewed by the User who wishes to see the same.</br>
 </li>
 <li>
-The user should also be able to compare the various products of different as well as similar brands.</br>
+The user should also be able to compare the various products of different as well as similar categories.</br>
 </li>
 <li>
-There should be a “Contact Us” page which will have the Address of the Company which is as follows and the mail address which when clicked will invoke the local mail client from where they can send an email.</br>
+There should be a “Contact Us” page which will have the Address of the Company with location should be displayed using GeoLocation API (eg.GoogleMaps) and the mail address which when clicked will invoke the local mail client from where they can send an email.</br>
 </ol>
 
- ## Members of group 5
- ### Leader : Du Han Huy `Student1491726`
+ ## Members of group 1
+ ### Leader : Tran Ngoc Son `Student1491654`
 #### Members:
-Le Hoang Long `Student1491740` </br>
-Doan Duc Do `Student1491746` </br>
+Nguyen Van Quy`Student1491481` </br>
+Vo Xuan Thinh `Student1455759` </br>
 
 
 
@@ -91,4 +101,4 @@ Doan Duc Do `Student1491746` </br>
 [CSS3]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [JS]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [SASS]:https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
-[REACT]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[REACT]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBgit 
