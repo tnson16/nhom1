@@ -21,24 +21,11 @@ export default function Footer () {
         <div className='me-5 d-none d-lg-block'>
           <span>Get connected with us on social networks:</span>
         </div>
-
         <div>
-          <a href=''className='me-4 text-reset'>
+          <a href='https://www.facebook.com/'className='me-4 text-reset'>
             <MDBIcon color='secondary' fab icon='facebook-f' />
           </a>
-          <a href='' className='me-4 text-reset'>
-            <MDBIcon color='secondary' fab icon='twitter' />
-          </a>
-          <a href='' className='me-4 text-reset'>
-            <MDBIcon color='secondary' fab icon='google' />
-          </a>
-          <a href='' className='me-4 text-reset'>
-            <MDBIcon color='secondary' fab icon='instagram' />
-          </a>
-          <a href='' className='me-4 text-reset'>
-            <MDBIcon color='secondary' fab icon='linkedin' />
-          </a>
-          <a href='' className='me-4 text-reset'>
+          <a href='https://github.com/tnson16' className='me-4 text-reset'>
             <MDBIcon color='secondary' fab icon='github' />
           </a>
         </div>
@@ -51,7 +38,7 @@ export default function Footer () {
           <MDBCol md='2' lg='2' xl='2'    >
               <h6 className='text-uppercase fw-bold mb-4'>About</h6>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href='' className='text-reset'>
                 Home
                 </a>
               </p>
@@ -132,10 +119,6 @@ export default function Footer () {
               </p>
               <p>
                 <MDBIcon color='secondary' icon='phone' className='me-3' /> + 01 234 567 88
-              </p>
-              <p>
-                
-                <MDBIcon color='secondary' icon='print' className='me-3' /> + 01 234 567 89
               </p>
             </MDBCol>
           </MDBRow>

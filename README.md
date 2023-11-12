@@ -23,7 +23,7 @@
   <a  href=": https://github.com/tnson16/nhom1"><strong>Explore the source »</strong></a>
   <a  href="https://github.com/tnson16/nhom1/tree/e2f647ee174f3e366aaabd15cd5f1815b4e19701/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  /><a  href="https://nhom1-sigma.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/OEdZ5sy2xXc?si=un3MHgXq4x5WNMIv" target="_blank">Video</a>
+  <br  /><a  href="https://nhom1-sigma.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/HASa-5Tm_0k" target="_blank">Video</a>
 
 
   ### Built With
