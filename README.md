@@ -24,7 +24,7 @@
   We have regular discount programs for loyal customers
   <br  />
   <a  href=": https://github.com/tnson16/nhom1"><strong>Explore the source »</strong></a>
-  <a  href="https://github.com/dddo1901/dddo1901.github.io/tree/e95ccdc67ab984efcd0fc49403cab07af0b92a76/documents" target="_blank"><strong>Explore the documents »</strong></a>
+  <a  href="https://github.com/tnson16/nhom1/tree/e2f647ee174f3e366aaabd15cd5f1815b4e19701/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
   <br  /><a  href="https://nhom1-sigma.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/OEdZ5sy2xXc?si=un3MHgXq4x5WNMIv" target="_blank">Video</a>
 
